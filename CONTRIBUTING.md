@@ -214,7 +214,7 @@ Contributors are recognized in:
 
 - 
 - 📧 **Email**: amandeepsasidharan@gmail.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/code-analyzer/issues)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/amandeeo-2004/Code-Buddy/issues)
 
 ## 📄 License
 
