@@ -7,7 +7,7 @@
 
 > **Advanced AI-powered code analysis and documentation generation using transformer models (BERT, RoBERTa, BART) and tree-sitter parsing**
 
-![Code Analyzer Demo](https://via.placeholder.com/800x400/2c3e50/white?text=Code+Analysis+%26+Documentation+Generator)
+
 
 ## ✨ Features
 
