@@ -409,10 +409,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 **Email**: support@codeanalyzer.dev
-- 💬 **Discord**: [Join our community](https://discord.gg/codeanalyzer)
+- 📧 **Email**: amandeepsasidharan@gmail.com
 - 📖 **Documentation**: [Full documentation](https://docs.codeanalyzer.dev)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/code-analyzer/issues)
+
 
 ---
 
@@ -420,8 +419,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if you find it helpful!**
 
-*Built with ❤️ by the Code Analyzer Team*
-
-[🏠 Homepage](https://codeanalyzer.dev) • [📖 Docs](https://docs.codeanalyzer.dev) • [🚀 Demo](https://demo.codeanalyzer.dev)
+ge](https://codeanalyzer.dev) • [📖 Docs](https://docs.codeanalyzer.dev) • [🚀 Demo](https://demo.codeanalyzer.dev)
 
 </div>
