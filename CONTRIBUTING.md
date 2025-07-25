@@ -212,8 +212,8 @@ Contributors are recognized in:
 
 ## 📞 Questions?
 
-- 💬 **Discord**: [Join our community](https://discord.gg/codeanalyzer)
-- 📧 **Email**: maintainers@codeanalyzer.dev
+- 
+- 📧 **Email**: amandeepsasidharan@gmail.com
 - 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/code-analyzer/issues)
 
 ## 📄 License
